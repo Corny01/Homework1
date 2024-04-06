@@ -1,4 +1,4 @@
-#Homework1 calculate rectangle or cuboid
+# Homework1 calculate rectangle or cuboid
 
 [![license](https://img.shields.io/badge/license-Apache%202.0-black)](https://github.com/11909383/Homework1/main/LICENSE)
 
