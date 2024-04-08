@@ -10,7 +10,7 @@ def calculate_cuboid(length, width, height):
         volume = length * width * height
         return surface_area, volume
 
-
+"""
 def main():
     shape_choice = input("Choose 'rectangle' or 'cuboid' to calculate area/volume: ").lower()
 
@@ -43,6 +43,6 @@ def main():
         print("Invalid choice. Please choose 'rectangle' or 'cuboid'.")
         
    main()     
-        
+   """     
 
 
