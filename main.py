@@ -41,6 +41,8 @@ def main():
 
     else:
         print("Invalid choice. Please choose 'rectangle' or 'cuboid'.")
+        
+   main()     
+        
 """
 
-main()
