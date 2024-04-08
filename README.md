@@ -7,5 +7,5 @@ Calculate the area of a rectangle or Calculate the surface area and volume of a 
 
 main function choose between rectangle and cuboid calculation </p>
 calculate_rectangle_area function retunrs the area of an rectangle. 2 Inputs </p>
-calculate_cuboid function returns volume of the cuboid and surface area of the cuboid </p>
+calculate_cuboid function returns volume of the cuboid and surface area of the cuboid. 3 Inputs </p>
 
