@@ -1,5 +1,5 @@
 def calculate_rectangle_area(length, width):
-    return length*width + 1
+    return length*width + 1#Try for failing ruff
 
 
 def calculate_cuboid(length, width, height):
